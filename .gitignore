@@ -11,3 +11,8 @@ __pycache__/
 .env
 .env.*
 .DS_Store
+data/train.csv
+data/test.csv
+data/store.csv
+
+
